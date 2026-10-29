@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse AI",
+  "description": "Multi-Lingual Hybrid Movie Recommendation & Discovery Engine blending Hollywood and Indian cinema with semantic vector matching, multi-audio tagging, and interactive data science metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
